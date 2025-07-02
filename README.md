@@ -20,6 +20,8 @@ This repository contains an R-based analysis of *Schistosoma mansoni* infections
 
 📌 *Conclusion*: No statistically significant change in mean prevalence before vs. after 2000.
 
+[Mean Prevalence with school aged children.pdf](https://github.com/user-attachments/files/21015552/Mean.Prevalence.with.school.aged.children.pdf)
+
 ### 3. 🗺️ Regional Prevalence & Uncertainty
 
 | Region      | Mean Prevalence (%) | 95% CI           | Sample Size |
